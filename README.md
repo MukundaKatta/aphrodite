@@ -1,6 +1,6 @@
 # aphrodite — AI UI Component Library. AI-generated UI component library
 
-AI UI Component Library. AI-generated UI component library. aphrodite gives you a focused, inspectable implementation of that idea.
+AI UI Component Library. AI-generated UI component library.
 
 ## Why aphrodite
 
